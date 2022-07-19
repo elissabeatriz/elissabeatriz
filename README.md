@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @elissabeatriz
-- 👀 I’m interested in eletronic and machine learning
 - 🌱 I’m currently learning C and Python
  
 <!---
